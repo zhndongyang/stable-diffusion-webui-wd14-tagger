@@ -29,7 +29,7 @@ interrogators: Dict[str, Interrogator] = {
         'WD14 ConvNeXT v1',
         repo_id='SmilingWolf/wd-v1-4-convnext-tagger'
     ),
-    'wd14-eva02.v3': WaifuDiffusionInterrogator(
+    'wd-eva02-large-tagger-v3': WaifuDiffusionInterrogator(
         'wd-eva02-large-tagger-v3',
         repo_id='SmilingWolf/wd-eva02-large-tagger-v3'
     ),
